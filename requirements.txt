@@ -1,0 +1,5 @@
+streamlit
+moviepy==2.1.2
+pillow
+numpy
+imageio-ffmpeg
